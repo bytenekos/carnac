@@ -24,3 +24,4 @@ src/Carnac.sln.ide/
 tools/**
 !tools/packages.config
 .vs/
+src/.idea/.idea.Carnac/.idea
